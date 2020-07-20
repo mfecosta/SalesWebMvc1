@@ -12,6 +12,7 @@ namespace SalesWebMvc1.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["author"] = "Marcelo Felipe Costa";
             return View();
         }
 

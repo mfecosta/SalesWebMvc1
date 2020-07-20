@@ -11,7 +11,6 @@ C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\bin\Debug\netcorea
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csprojAssemblyReference.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.AssemblyInfoInputs.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.AssemblyInfo.cs
-C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csproj.CoreCompileInputs.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.RazorAssemblyInfo.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.RazorAssemblyInfo.cs
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.TagHelpers.input.cache
@@ -34,3 +33,5 @@ C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcorea
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.pdb
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.genruntimeconfig.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csproj.CopyComplete
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
