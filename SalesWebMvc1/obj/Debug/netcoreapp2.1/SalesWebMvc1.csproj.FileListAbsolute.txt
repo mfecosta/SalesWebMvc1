@@ -34,4 +34,10 @@ C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcorea
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.genruntimeconfig.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csproj.CopyComplete
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
