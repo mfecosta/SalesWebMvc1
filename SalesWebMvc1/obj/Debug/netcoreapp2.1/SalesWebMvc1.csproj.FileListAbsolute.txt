@@ -42,3 +42,4 @@ C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\bin\Debug\netcorea
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\SalesWebMvc1.csproj.CoreCompileInputs.cache
 C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\marcelo.costa\source\repos\SalesWebMvc1\SalesWebMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs

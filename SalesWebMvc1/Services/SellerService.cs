@@ -19,6 +19,12 @@ namespace SalesWebMvc1.Services
         {
             return _context.Selller.ToList();//método que retorna todos os vendedores da lista
         }
+
+        public void Insert(Seller obj)
+        {
+            _context.Add(obj);
+            _context.SaveChanges();
+        }
     }
     
 }
