@@ -13,6 +13,7 @@ namespace SalesWebMvc1.Models
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
         public ICollection<SallesRecord> Salles { get; set; } = new List<SallesRecord>();
+        public int DepartmentId { get; set; }
 
         public Seller()
         {
