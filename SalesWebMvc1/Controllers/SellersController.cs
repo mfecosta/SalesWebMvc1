@@ -40,6 +40,12 @@ namespace SalesWebMvc1.Controllers
         [ValidateAntiForgeryToken]//impede que etrem na mesma sessão e envie dados maliciosos
         public IActionResult Create(Seller seller)
         {
+            if (!ModelState.IsValid)
+            {
+                rvar departments = _departmentService.FindAll();
+                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
+                return View(viewModel);
+            }
             _sellerService.Insert(seller);
             return RedirectToAction(nameof(Index));//após gravar os dados envia para a página selecionada
         }
@@ -101,6 +107,12 @@ namespace SalesWebMvc1.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Seller seller)
         {
+            if (!ModelState.IsValid)
+            {
+                var departments = _departmentService.FindAll();
+                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
+                return View(viewModel);
+            } 
             if ( id != seller.Id)
             {
                 return RedirectToAction(nameof(Error), new { message = "Id não correspondem" });

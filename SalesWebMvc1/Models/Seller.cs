@@ -3,14 +3,17 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.ComponentModel.DataAnnotations;
- 
+using Newtonsoft.Json.Serialization;
 
 namespace SalesWebMvc1.Models
 {
     public class Seller
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        [Required(ErrorMessage ="Nome obrigatório")]
+        [StringLength(40)]
+        public string Name { get; set; } 
+        [EmailAddress(ErrorMessage ="Campo obrigatório")]
         public string Email { get; set; }
         [Display(Name ="Birth Date")]
         [DataType(DataType.Date)]
